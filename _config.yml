@@ -2,7 +2,7 @@
 title: H2W Blog
 email: support@h2w.cc
 description: "The blog for wellness program application Health2Wealth."
-baseurl: "http://blog.h2w.cc"
+baseurl: ""
 url: "http://blog.h2w.cc"
 
 # Build settings
